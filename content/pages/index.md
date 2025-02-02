@@ -15,9 +15,10 @@ sections:
     backgroundSize: full
     title: Learning HUB
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Your one-stop platform for premium study materials. Discover insightful
+      guides and expert resources. Access ebooks and pdfs for JEE, NEET, class
+      10th and 12th. Learn, grow, and achieve your goals. Stay ahead with the
+      latest educational content. Premium quality resources at your fingertips.
     styles:
       self:
         height: auto
