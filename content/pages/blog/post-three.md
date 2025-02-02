@@ -4,7 +4,10 @@ title: How can i request specific materials not available on this website ?
 colors: colors-b
 date: '2024-01-01'
 author: content/data/team/doris-soto.json
-excerpt: How can i request specific materials not available on this website ?
+excerpt: >-
+  If you're looking for something specific, you can contact us through the
+  Contact Us section or massage telegram channel https://t.me/Learning_HUB_11th
+  on directly. We'll do our best to add it to our collection.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image3.jpg
