@@ -15,7 +15,7 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "showIcon": true,
-                "altText": "Teleegram"
+                "altText": "Telegram"
             },
             {
                 "type": "Link",
