@@ -2,7 +2,7 @@
 type: PostLayout
 title: How to download books ?
 colors: colors-a
-date: '2024-06-03'
+date: ''
 author: content/data/team/doris-soto.json
 excerpt: >-
   Go to the specific category of the books you are looking for. Then click on
