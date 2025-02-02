@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-02-01 190509.png
-  altText: Project thumbnail image
+  altText: JEE BOOKs
 media:
   type: ImageBlock
   url: /images/bg2.jpg
