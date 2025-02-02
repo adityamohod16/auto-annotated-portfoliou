@@ -12,7 +12,8 @@
                 "type": "Link",
                 "label": "Info",
                 "url": "/info",
-                "icon": "arrowUpLeft"
+                "icon": "arrowUpLeft",
+                "iconPosition": "right"
             },
             {
                 "type": "Link",
