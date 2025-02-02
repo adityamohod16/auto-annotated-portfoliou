@@ -14,7 +14,8 @@
                 "url": "/info",
                 "icon": "arrowUpLeft",
                 "iconPosition": "right",
-                "showIcon": true
+                "showIcon": true,
+                "altText": "Teleegram"
             },
             {
                 "type": "Link",
