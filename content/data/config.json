@@ -31,7 +31,7 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
+                "altText": "Discord",
                 "label": "Discord",
                 "url": "https://twitter.com/netlify",
                 "icon": "twitter"
