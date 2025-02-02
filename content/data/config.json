@@ -75,12 +75,6 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Follow us",
                 "url": "https://t.me/Learning_HUB_11th",
                 "altText": "Follow us"
