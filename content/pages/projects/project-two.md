@@ -29,7 +29,7 @@ bottomSections:
       - type: Button
         label: View BOOKs
         altText: ''
-        url: 'https://jee-chemistry-books.netlify.app/'
+        url: 'https://create.netlify.com/studio/679f45a842caae00c3a38cdf'
         showIcon: true
         icon: arrowRight
         iconPosition: right
