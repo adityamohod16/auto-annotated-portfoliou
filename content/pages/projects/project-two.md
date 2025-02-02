@@ -3,7 +3,7 @@ type: ProjectLayout
 title: JEE BOOKs
 colors: colors-a
 date: '2021-12-20'
-client: ''
+client: Learning HUB
 description: >-
   Learning HUB Official Your one-stop solution for free JEE Mains and Advance
   exam ebooks, designed to help students achieve their academic dreams with
