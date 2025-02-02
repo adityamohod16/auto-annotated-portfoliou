@@ -27,7 +27,7 @@ bottomSections:
       inorganic chemistry and organic chemistry.
     actions:
       - type: Button
-        label: Hire me
+        label: View BOOKs
         altText: ''
         url: /
         showIcon: true
