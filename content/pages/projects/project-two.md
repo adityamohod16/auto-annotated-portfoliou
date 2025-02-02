@@ -24,9 +24,11 @@ bottomSections:
   - type: HeroSection
     title: JEE CHEMISTRY BOOKs
     subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      IIT JEE Chemistry Study Material – Chemistry is one of the most important
+      and scoring subjects for JEE. The questions asked in the chemistry section
+      are usually direct but students do have to cover a lot of topics. There
+      are in fact three branches in chemistry which are physical chemistry,
+      inorganic chemistry and organic chemistry.
     actions:
       - type: Button
         label: Hire me
