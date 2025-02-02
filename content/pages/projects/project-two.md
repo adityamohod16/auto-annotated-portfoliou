@@ -15,7 +15,7 @@ featuredImage:
   caption: >-
     Learning HUB Official Your one-stop solution for free JEE Mains and Advance
     exam ebooks, designed to help students achieve their academic dreams with
-    ease.
+    ease.   
 media:
   type: ImageBlock
   url: /images/bg2.jpg
