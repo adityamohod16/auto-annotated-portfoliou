@@ -1,11 +1,13 @@
 ---
 type: PostLayout
-title: Composable - the future of web
+title: How can i request specific materials not available on this website ?
 colors: colors-b
-date: '2024-01-01'
+date: ''
 author: content/data/team/doris-soto.json
 excerpt: >-
-  More context that may or may not be helpful
+  If you're looking for something specific, you can contact us through the
+  Contact Us section or massage telegram channel https://t.me/Learning_HUB_11th
+  on directly. We'll do our best to add it to our collection.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image3.jpg
@@ -52,7 +54,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock

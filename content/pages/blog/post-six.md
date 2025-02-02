@@ -1,11 +1,13 @@
 ---
 type: PostLayout
-title: How to Structure and Organize a Next.js Project 🗂️
+title: How to download books ?
 colors: colors-a
-date: '2024-06-03'
+date: ''
 author: content/data/team/doris-soto.json
 excerpt: >-
-  More context that may or may not be helpful
+  Go to the specific category of the books you are looking for. Then click on
+  the link provided for that specific book. Then on clicking the book on get the
+  link of google drive.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
@@ -45,7 +47,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
