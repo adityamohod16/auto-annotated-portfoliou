@@ -115,9 +115,12 @@ bottomSections:
   - type: HeroSection
     title: JEE MATHEMATICS
     subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      IIT JEE Maths Study Material – To be an expert in JEE Mathematics, it is
+      absolutely necessary to practice and be familiar will all the concepts as
+      well as the questions of different types. This is essential to gain
+      mastery over the subject. We have also often heard the common saying,
+      “Practice Makes a Man Perfect”, hence students have to practice, practice
+      and practice till they master the subject.
     actions:
       - type: Button
         label: Hire me
