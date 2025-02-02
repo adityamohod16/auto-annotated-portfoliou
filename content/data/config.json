@@ -32,7 +32,7 @@
             {
                 "type": "Social",
                 "altText": "Twitter",
-                "label": "Twitter",
+                "label": "Discord",
                 "url": "https://twitter.com/netlify",
                 "icon": "twitter"
             },
