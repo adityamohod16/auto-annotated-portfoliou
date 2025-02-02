@@ -1,14 +1,15 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: NEET BOOKs
 colors: colors-a
 date: '2022-01-22'
-client: Awesome client
+client: Learning HUB
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  Learning HUB Official Your one-stop solution for free NEET exam ebooks,
+  designed to help students to reach new heights.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Screenshot 2025-02-01 200013.png
   altText: Project thumbnail image
 media:
   type: ImageBlock

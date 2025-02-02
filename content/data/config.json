@@ -5,17 +5,21 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "Learning HUB",
         "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
+                "label": "Telegram",
+                "url": "https://t.me/Learning_HUB_11th",
+                "icon": "send",
+                "iconPosition": "right",
+                "showIcon": true,
+                "altText": "Telegram"
             },
             {
                 "type": "Link",
-                "label": "Projects",
+                "label": "About us",
                 "url": "/projects"
             },
             {
@@ -27,23 +31,31 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.instagram.com/learninghubofficial/?igsh=MXVrY2w4ZXRhYW5zaA%3D%3D#",
+                "icon": "instagram",
+                "elementId": ""
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "altText": "FaceBook",
+                "label": "FaceBook",
+                "url": "https://www.facebook.com/profile.php?id=61572918292590&rdid=aZ9UxqT1JAZw6hXH&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F15XEpZWw9K%2F#",
+                "icon": "facebook"
             }
         ],
         "styles": {
             "self": {
                 "width": "full"
             }
+        },
+        "logo": {
+            "type": "ImageBlock",
+            "url": "/images/Screenshot 2025-02-01 095651.png",
+            "altText": "altText of the image",
+            "caption": "Caption of the image",
+            "elementId": ""
         }
     },
     "footer": {
@@ -69,9 +81,9 @@
             },
             {
                 "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
+                "label": "Follow us",
+                "url": "https://t.me/Learning_HUB_11th",
+                "altText": "Follow us"
             }
         ],
         "contacts": {
@@ -84,11 +96,16 @@
             "address": "312 Lovely Street, Brooklyn, NY, 123456",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "Owner - Souvik Deb ; \n\n\nCO-Owner - Sachin, Aniruddh, Aditya Mohod⚡\n",
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
