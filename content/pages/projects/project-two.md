@@ -12,6 +12,10 @@ featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-02-01 190509.png
   altText: JEE BOOKs
+  caption: >-
+    Learning HUB Official Your one-stop solution for free JEE Mains and Advance
+    exam ebooks, designed to help students achieve their academic dreams with
+    ease.
 media:
   type: ImageBlock
   url: /images/bg2.jpg
