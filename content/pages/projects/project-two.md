@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: JEE BOOKs
 colors: colors-a
-date: ''
+date: '2025-02-06'
 client: Learning HUB
 description: >-
   Learning HUB Official Your one-stop solution for free JEE Mains and Advance
