@@ -113,7 +113,7 @@ bottomSections:
       actions:
         justifyContent: flex-start
   - type: HeroSection
-    title: JEE MATHEMATICS
+    title: JEE MATHEMATICS BOOKs
     subtitle: >-
       IIT JEE Maths Study Material – To be an expert in JEE Mathematics, it is
       absolutely necessary to practice and be familiar will all the concepts as
