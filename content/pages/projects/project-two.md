@@ -28,7 +28,7 @@ bottomSections:
     actions:
       - type: Button
         label: View BOOKs
-        altText: ''
+        altText: jee-chemistry-books
         url: 'https://jee-chemistry-books.netlify.app/'
         showIcon: true
         icon: arrowRight
