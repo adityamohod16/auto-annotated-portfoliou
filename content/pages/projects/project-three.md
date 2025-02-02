@@ -9,7 +9,7 @@ description: >-
   designed to help students to reach new heights.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Screenshot 2025-02-01 200013.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
