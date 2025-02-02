@@ -31,13 +31,6 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Discord",
-                "label": "Discord",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
                 "label": "Facebook",
                 "altText": "",
                 "url": "https://www.instagram.com/learninghubofficial/?igsh=MXVrY2w4ZXRhYW5zaA%3D%3D#",
