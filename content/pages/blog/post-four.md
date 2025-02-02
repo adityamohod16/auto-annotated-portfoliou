@@ -2,7 +2,7 @@
 type: PostLayout
 title: Why are most materials on your website free ?
 colors: colors-a
-date: '2024-02-01'
+date: ''
 author: content/data/team/doris-soto.json
 excerpt: >-
   We believe that quality education should be accessible to everyone. By
