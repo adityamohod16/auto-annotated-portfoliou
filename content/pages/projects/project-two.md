@@ -67,9 +67,11 @@ bottomSections:
   - type: HeroSection
     title: JEE PHYSICS BOOKs
     subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      IIT JEE Physics Study Material – Physics has always been an interesting
+      subject and it has also contributed greatly to the field of science and
+      technology. However, when it comes to studying this subject, many students
+      tend to think that it is difficult. Many are intimidated solely because
+      the subject deals with a lot of numerical, theories, experiments, etc.
     actions:
       - type: Button
         label: Hire me
