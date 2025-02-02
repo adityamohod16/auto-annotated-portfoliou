@@ -74,7 +74,7 @@ bottomSections:
       the subject deals with a lot of numerical, theories, experiments, etc.
     actions:
       - type: Button
-        label: Hire me
+        label: View Books
         altText: ''
         url: /
         showIcon: true
