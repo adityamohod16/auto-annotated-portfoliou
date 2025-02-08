@@ -15,9 +15,10 @@ bottomSections:
   - type: HeroSection
     title: NEET BIOLOGY BOOKs
     subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      NEET Biology is essentially an indispensable section as it is one of the
+      most scoring subjects if the students plan their preparations wisely. The
+      questions from biology are so comprehensive that a well-prepared student
+      clears this section of NEET almost effortlessly.
     actions:
       - type: Button
         label: Hire me
