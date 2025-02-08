@@ -103,9 +103,10 @@ bottomSections:
   - type: HeroSection
     title: neet physics books
     subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Arguably, the Physics section of NEET seems the most intimidating section
+      of all. Often, we observe students looking up the internet seeking
+      assistance to crack the NEET Physics section, and it is a concern that has
+      always prevailed.
     actions:
       - type: Button
         label: Hire me
