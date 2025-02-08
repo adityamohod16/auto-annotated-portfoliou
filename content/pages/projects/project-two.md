@@ -28,7 +28,7 @@ bottomSections:
     actions:
       - type: Button
         label: View BOOKs
-        altText: ''
+        altText: jee-chemistry-books
         url: 'https://jee-chemistry-books.netlify.app/'
         showIcon: true
         icon: arrowRight
@@ -74,7 +74,7 @@ bottomSections:
       the subject deals with a lot of numerical, theories, experiments, etc.
     actions:
       - type: Button
-        label: Hire me
+        label: Hire
         altText: ''
         url: /
         showIcon: true
