@@ -21,7 +21,7 @@ bottomSections:
       clears this section of NEET almost effortlessly.
     actions:
       - type: Button
-        label: Hire me
+        label: Download BOOK
         altText: ''
         url: /
         showIcon: true
