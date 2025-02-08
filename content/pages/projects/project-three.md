@@ -60,10 +60,7 @@ bottomSections:
         justifyContent: flex-start
   - type: HeroSection
     title: NEET CHEMISTRY books
-    subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: "NEET Chemistry is divided into three sections, namely, Physical, Organic and Inorganic Chemistry. Compared to Biology and Physics, Chemistry is considered to be the most scoring section. If prepared thoroughly, chemistry can help students to secure a meritorious position in the exam. Out of a total 720 marks (180 questions),\_NEET\_Chemistry comprises 180 marks (45 Questions)"
     actions:
       - type: Button
         label: Hire me
