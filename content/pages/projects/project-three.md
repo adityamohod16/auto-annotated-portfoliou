@@ -63,7 +63,7 @@ bottomSections:
     subtitle: "NEET Chemistry is divided into three sections, namely, Physical, Organic and Inorganic Chemistry. Compared to Biology and Physics, Chemistry is considered to be the most scoring section. If prepared thoroughly, chemistry can help students to secure a meritorious position in the exam. Out of a total 720 marks (180 questions),\_NEET\_Chemistry comprises 180 marks (45 Questions)."
     actions:
       - type: Button
-        label: Download BOOKs
+        label: Download BOOK
         altText: ''
         url: /
         showIcon: true
