@@ -109,7 +109,7 @@ bottomSections:
       always prevailed.
     actions:
       - type: Button
-        label: Hire me
+        label: Download BOOK
         altText: ''
         url: /
         showIcon: true
