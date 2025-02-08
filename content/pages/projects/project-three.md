@@ -32,7 +32,7 @@ bottomSections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/Screenshot 2025-02-08 153810.png
       altText: Hero image
       caption: Caption of the image
       elementId: ''
