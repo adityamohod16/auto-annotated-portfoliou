@@ -14,11 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Learning HUB
-    subtitle: >-
-      Your one-stop platform for premium study materials. Discover insightful
-      guides and expert resources. Access ebooks and pdfs for JEE, NEET, class
-      10th and 12th. Learn, grow, and achieve your goals. Stay ahead with the
-      latest educational content. Premium quality resources at your fingertips.
+    subtitle: "Your one-stop platform for premium study materials. Discover insightful guides and expert resources. Access ebooks and pdfs for JEE, NEET, class 10th and 12th. Learn, grow, and achieve your goals. Stay ahead with the latest educational content. Premium quality resources at your fingertips. We\_offer a complete study solution for jee,neet and for class 10th and 12th exams, helping you succeed in your academic journey and reach your full potential. Join StudySphere and unlock your academic success!"
     styles:
       self:
         height: auto
