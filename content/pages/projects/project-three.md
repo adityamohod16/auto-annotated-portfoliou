@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'PYQs and '
+title: PYQs and Test series For JEE & NEET
 colors: colors-a
 date: '2022-01-22'
 client: Learning HUB
