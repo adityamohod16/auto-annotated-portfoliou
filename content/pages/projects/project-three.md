@@ -21,7 +21,7 @@ bottomSections:
       - type: Button
         label: Try it now
         altText: ''
-        url: /
+        url: 'https://jee-neet-pyqs-fyr56ag.gamma.site'
         showIcon: true
         icon: arrowRight
         iconPosition: right
