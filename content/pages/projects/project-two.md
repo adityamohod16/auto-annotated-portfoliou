@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: JEE BOOKs
+title: JEE & NEET BOOKs
 colors: colors-a
 date: '2025-02-06'
 client: Learning HUB
