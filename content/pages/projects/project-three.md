@@ -14,9 +14,11 @@ featuredImage:
 bottomSections:
   - type: CtaSection
     title: PYQs and TEST Series
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >+
+      PYQs and Test series is one of the best methods to improve one's mains
+      answer writing, improve the level of confidence and rectifying the
+      mistakes in one's preparation.
+
     actions:
       - type: Button
         label: View BOOKs
