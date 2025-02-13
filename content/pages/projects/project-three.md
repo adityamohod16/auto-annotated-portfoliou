@@ -13,7 +13,7 @@ featuredImage:
   altText: Project thumbnail image
 bottomSections:
   - type: CtaSection
-    title: Let's do this
+    title: PYQs and TEST Series
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
