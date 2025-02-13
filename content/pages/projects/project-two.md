@@ -1,13 +1,12 @@
 ---
 type: ProjectLayout
-title: JEE BOOKs
+title: JEE & NEET BOOKs
 colors: colors-a
 date: '2025-02-06'
 client: Learning HUB
 description: >-
-  Learning HUB Official Your one-stop solution for free JEE Mains and Advance
-  exam ebooks, designed to help students achieve their academic dreams with
-  ease.
+  Learning HUB Official Your one-stop solution for free JEE and NEET exam
+  ebooks, designed to help students achieve their academic dreams with ease.
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-02-01 190509.png
