@@ -19,7 +19,7 @@ bottomSections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it now
+        label: View BOOKs
         altText: ''
         url: 'https://jee-neet-pyqs-fyr56ag.gamma.site'
         showIcon: true
